@@ -1,6 +1,7 @@
+#!/usr/bin/env python3
 # A Symmetric Cryptographic Encryption and Decryption in Python
 # done b @Sri_Programmer
-# Python v3.7.2
+# Python v3.8.9
 
 # imports 
 
@@ -89,7 +90,7 @@ class Decryption:
 
 space_count = 30 * ' '
 cprint('{} File Encryption And Decryption Tool. {}'.format(space_count,space_count), 'red')
-cprint('{} {}'.format(space_count + 3 * ' ','Programmed by Sri Manikanta.'),'green')
+cprint('{} {}'.format(space_count + 3 * ' ','Programmed by Annie Frank'),'green')
 while True:
 		cprint('1. Encryption',color='magenta')
 		cprint('2. Decryption',color='magenta')
